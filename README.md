@@ -19,7 +19,7 @@ This project aims to demonstrate how a linear classifier can be trained using gr
 
 ---
 
-## 🧠 Example Usage
+## Example Usage
 
 ```python
 from my_softmax import SoftmaxClassifier
