@@ -2,13 +2,13 @@
 
 A lightweight, educational implementation of a **multiclass Softmax classifier** (also known as multinomial logistic regression) written from scratch in pure NumPy.
 
-This project aims to demonstrate how a linear classifier can be trained using gradient descent and the cross-entropy loss function — including support for **early stopping**, **validation monitoring**, and a scikit-learn–style interface.
+This project aims to demonstrate how a linear classifier can be trained using gradient descent and the cross-entropy loss function - including support for **early stopping**, **validation monitoring**, and a scikit-learn-style interface.
 
 ---
 
 ## Features
 
-- **Pure NumPy implementation** — no external ML frameworks required  
+- **Pure NumPy implementation** - no external ML frameworks required  
 - **Softmax activation** for multiclass problems  
 - **Cross-entropy loss** with numerical stability  
 - **Early stopping** based on validation loss (`eval_set` + `patience`)  
